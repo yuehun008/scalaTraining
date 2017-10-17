@@ -56,5 +56,6 @@ object Scala2Msql_JDBC {
       //case _: Throwable => println("Error")
     }
     connection.close()
+    //结束
   }
 }
